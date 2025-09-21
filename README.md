@@ -1,4 +1,4 @@
-<h2>Official website for DSC VIT chennai.</h2>
+<h2>Official website for DSC VIT chennai!</h2>
 <table class="table table-sm" >
     <tr>
         <td>
